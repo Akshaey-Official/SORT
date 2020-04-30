@@ -1,2 +1,2 @@
 # SORT
-Install all the Necessary Modules like Pyttsx3, pip install Pyttsx3
+SORT is AI basrd Virtual Assistant
