@@ -1,2 +1,2 @@
 # SORT
-SORT is AI basrd Virtual Assistant
+SORT is AI based Virtual Assistant
